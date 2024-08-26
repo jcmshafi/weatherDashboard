@@ -36,6 +36,7 @@ The Weather Dashboard is built using the following technologies:
 ## Live-Site
 
 Vercel Link: https://weather-dashboard-coral.vercel.app/
+Note: You should search locations by these names only (London, Dhaka, Kolkata, New York, Tokyo, Sydney, Paris etc.)
 
 ## GitHub Repository
 
